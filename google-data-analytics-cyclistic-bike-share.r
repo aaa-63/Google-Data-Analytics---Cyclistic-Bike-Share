@@ -1,18 +1,26 @@
 {
  "cells": [
   {
-   "cell_type": "markdown",
-   "id": "ad2f6115",
+   "cell_type": "code",
+   "execution_count": 1,
+   "id": "80ac1ce1",
    "metadata": {
+    "execution": {
+     "iopub.execute_input": "2022-08-02T23:01:24.270642Z",
+     "iopub.status.busy": "2022-08-02T23:01:24.268481Z",
+     "iopub.status.idle": "2022-08-02T23:01:24.432999Z",
+     "shell.execute_reply": "2022-08-02T23:01:24.431075Z"
+    },
     "papermill": {
-     "duration": 0.00203,
-     "end_time": "2022-08-02T22:59:55.535872",
+     "duration": 0.172722,
+     "end_time": "2022-08-02T23:01:24.436267",
      "exception": false,
-     "start_time": "2022-08-02T22:59:55.533842",
+     "start_time": "2022-08-02T23:01:24.263545",
      "status": "completed"
     },
     "tags": []
    },
+   "outputs": [],
    "source": [
     "#This notebook will transcribe the code that was run in RStudio to clean, manipulate, and analyze the data set."
    ]
@@ -34,14 +42,14 @@
   },
   "papermill": {
    "default_parameters": {},
-   "duration": 3.81187,
-   "end_time": "2022-08-02T22:59:55.659310",
+   "duration": 4.231815,
+   "end_time": "2022-08-02T23:01:24.559130",
    "environment_variables": {},
    "exception": null,
    "input_path": "__notebook__.ipynb",
    "output_path": "__notebook__.ipynb",
    "parameters": {},
-   "start_time": "2022-08-02T22:59:51.847440",
+   "start_time": "2022-08-02T23:01:20.327315",
    "version": "2.3.4"
   }
  },
